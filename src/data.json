@@ -1,0 +1,420 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Umair</b> <span><br />Tareen...</span>",
+    "subTitle": "<span>Business Intelligence Specialist</span> based in <span>USA</span>",
+    "ImgLink": "/images/home-banner.png",
+    "phone": "+1 516 424 3938",
+    "email": "umair@aitobianalytics.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "www.linkedin.com/in/umairtareen",
+        "icon": "linkedin"
+      },
+      {
+        "link": "https://www.instagram.com/tareen_ua/",
+        "icon": "instagram"
+      },
+      {
+        "link": "https://www.facebook.com/umair.a.tareen/",
+        "icon": "facebook"
+      }
+
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.png",
+      "name": "Umair Tareen",
+      "designation": "Business Intelligence Specialist <span>based in</span> USA",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "As a visionary leader, I excel in agile team leadership and the execution of innovative BI strategies. I am particularly passionate about fostering diversity in team building, believing that varied perspectives lead to more comprehensive and robust solutions.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+1 516 424 3938"
+        },
+        {
+          "icon": "person",
+          "data": "Umair Tareen"
+        },
+        {
+          "icon": "envelope",
+          "data": "umair@aitobianalytics.com"
+        },
+        {
+          "icon": "map",
+          "data": "New York, USA"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "10+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Umair Tareen</span>. I am a Business Intelligence & Data Engineer Professional, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "10+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": " With over a decade of experience in business analytics and data architecture, I am deeply committed to innovation, continuous improvement, and effective problem-solving in dynamic data environments."
+        }
+      ],
+      "note": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus sed sit ultrices et sed metus sollicitudin.”"
+    }
+  },
+  "experienceData": {
+  "text": "Hello there! My name is Umair Tareen. I am a Business Intelligence Specialist | Data Engineer & Analyst | Data Visualization Expert | AI Enthusiast | Quantitative Trading Strategist, and Im very passionate and dedicated to my work.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2020",
+        "end": "Present",
+        "title": "LEAD UI/UX DESIGNER",
+        "subtitle": "UI/UX Lead"
+      },
+      {
+        "start": "2017",
+        "end": "2018",
+        "title": "SENIOR UI/UX DESIGNER",
+        "subtitle": "UI/UX Designer"
+      },
+      {
+        "start": "2015",
+        "end": "2017",
+        "title": "WEB DESIGN AND DEVELOPER",
+        "subtitle": "Jr. UI/UX Designer"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Business Intelligence Specialist",
+      "heading": "Business Intelligence Expert",
+      "triger": "One",
+      "imgLink": "/images/services-1.jpg",
+      "text": "As a seasoned Business Intelligence Specialist, I harness the full spectrum of data analytics to transform raw data into strategic assets. My proficiency spans from designing intuitive dashboards to developing comprehensive reporting systems that empower decision-makers. With a deep-rooted understanding of data lifecycle management, I am adept at identifying trends and patterns that lead to impactful business insights. Leveraging a blend of technical skills in Tableau, Power BI, and data modeling, I deliver solutions that encapsulate the narrative of data, driving growth and innovation. My commitment to excellence is reflected in the precision of my analytics and the clarity of the visualizations that inform and inspire business strategy."
+    },
+    {
+      "title": "Data Engineering",
+      "heading": "Lofty Data Engineer",
+      "triger": "Two",
+      "imgLink": "/images/services-2.jpg",
+      "text": "In the realm of Data Engineering, my expertise lies in constructing robust data infrastructures that form the backbone of enterprise analytics. With a meticulous approach to data integration and system design, I craft pipelines that are not only efficient but scalable to the evolving demands of business intelligence. My hands-on experience with modern data management tools and cloud-based architectures ensures that data flows seamlessly, enabling advanced analytics that support real-time business operations. As a guardian of data integrity, I implement solutions that uphold the highest standards of quality and compliance, ensuring that the data platforms I develop become the trusted source for organizational knowledge."
+    },
+    {
+      "title": "AI Solutions Architect & Machine Learning Innovator",
+      "heading": "AI Solutions Architect | Machine Learning Engineer",
+      "triger": "Three",
+      "imgLink": "/images/services-3.jpg",
+      "text": "Navigating the intersection of technology and strategy, I am an AI Solutions Architect & Machine Learning Innovator with a robust background in developing intelligent systems that drive data-driven decision-making. My expertise lies in crafting advanced AI models that not only solve complex problems but also pioneer new frontiers in machine learning. With a deep understanding of AI's transformative potential, I excel in turning theoretical AI concepts into scalable, real-world applications that bolster business intelligence, enhance data engineering processes, and revolutionize quantitative trading strategies."
+    },
+    {
+      "title": "Quanitative Trading Strategist",
+      "heading": "Quant Trader",
+      "triger": "Four",
+      "imgLink": "/images/services-4.jpg",
+      "text": "Embarking on the quantitative aspect of finance, as a Quantitative Trading Strategist, I blend mathematical acumen with financial insight to devise trading algorithms that capitalize on market inefficiencies. My strategies are grounded in rigorous statistical analysis and machine learning models that predict market movements with precision. With a keen eye for detail and a solid grasp of high-frequency trading frameworks, I optimize portfolios and manage risk, achieving superior returns. I am dedicated to pushing the boundaries of quantitative finance, continuously refining models to adapt to market dynamics and spearheading innovations that define the future of algorithmic trading."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/services-1.jpg",
+      "subTitle": "UX case study",
+      "title": "Processor Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-2.jpg",
+      "subTitle": "UX case study",
+      "title": "Artificial Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-3.jpg",
+      "subTitle": "UX case study",
+      "title": "Website Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/services-4.jpg",
+      "subTitle": "UX case study",
+      "title": "Robotics Research",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat with me",
+        "text": "Connect On LinkedIn",
+        "link": "www.linkedin.com/in/umairtareen"
+      },
+ 
+      {
+        "icon": "phone",
+        "title": "Call Me",
+        "text": "Mon-Fri from 9am to 5pm. +1 (516) 424-3938"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? Got Skills? Lets team up.",
+      "text": "Tell us more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.png",
+    "name": "Umair Tareen"
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "link": "https://www.instagram.com/tareen_ua/"
+    },
+    {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/umair.a.tareen/"
+    },
+    {
+      "icon": "linkedin",
+      "link": "www.linkedin.com/in/umairtareen"
+    }
+  ]
+}
